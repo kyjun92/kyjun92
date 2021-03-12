@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kyjun92
+- 👀 I’m interested in Data Analysis && AI
+- 🌱 I’m currently learning Salesforce Development(SFDX)
+- 💞️ I’m looking to collaborate on Salesforce
+- 📫 How to reach me > Send me Email > kyjun92@gmail.com
