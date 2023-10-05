@@ -1,4 +1,4 @@
-# 👱🏻‍♂️ Marlon Rodler
+# 😊 YoungJun Kim
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%98%81%EC%A4%80-%EA%B9%80-a27b92201/)
 [![Hotmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyjun92@gmail.com)](mailto:kyjun92@gmail.com)
 
@@ -28,17 +28,8 @@
     </th>
   </tr>
 </table>
-
 <hr>
 
-
-## 🕵🏻‍♂️ My Data
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyjun92&hide=html&layout=compact&theme=default" />
-
-<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=kyjun92&theme=default" />
-
-
-<!--
 **kyjun92/kyjun92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -53,4 +44,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<hr>
+
+
+## 🕵🏻‍♂️ My Data
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyjun92&hide=html&layout=compact&theme=default" />
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=kyjun92&theme=default" />
