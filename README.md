@@ -34,7 +34,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **trestle** (Salesforce Partner)
+- 🔭 I’m currently working on **trestle** (Salesforce Partner) in South Korea
 - 👋 Hi, I’m YoungJun Kim @kyjun92
 - 👀 I’m interested in Data Analysis && AI
 - 🌱 I’m currently learning Salesforce Development(SFDX)
